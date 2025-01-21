@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Không yêu em thì yêu ai</title>
-    <style>
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;vi&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;Không yêu em thì yêu ai&lt;/title&gt;
+    &lt;style&gt;
         body {
             font-family: Arial, sans-serif;
             text-align: center;
@@ -77,42 +77,42 @@
         #no-button {
             position: absolute;
         }
-    </style>
-    <script src="https://cdn.jsdelivr.net/npm/fireworks-js"></script>
-</head>
-<body>
-    <h1>Ai Rít yêu Sông Tiền một chút xíuuuuu!<h1> 
-    <p class="heart">❤️</p>
-    <p>Thích nhìn embe cười👩‍❤️‍👨</p>
+    &lt;/style&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/fireworks-js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Ai Rít yêu Sông Tiền một chút xíuuuuu!&lt;/h1&gt; 
+    &lt;p class=&quot;heart&quot;&gt;❤️&lt;/p&gt;
+    &lt;p&gt;Thích nhìn embe cười👩‍❤️‍👨&lt;/p&gt;
     
-    <div class="message" id="message1">I love you *30000000000 🌻👩‍❤️‍👨</div>
-    <div class="message" id="message2">Yêu ST một chút xíuuuu 🌞</div>
-    <div class="message" id="message3">Mỗi ngày bên em là một món quà! 🎁</div>
-    <div class="message" id="message4">Em chính là người tuyệt vời nhất! 🌟</div>
-    <div class="message" id="message5">Yêu em nhiều hơn cả bầu trời! ✨</div>
-    <div class="message" id="message6">Yêu cả bánh mì nữa </div>
-    <div class="message" id="message7">KHÔNG YÊU EM THÌ YÊU AI </div>
-    <div class="message" id="message1">I love you *30000000000 🌻👩‍❤️‍👨</div>
-    <div class="message" id="message2">Yêu ST một chút xíuuuu 🌞</div>
-    <div class="message" id="message3">🎁</div>
-    <div class="message" id="message4">Em mười điểm 🌟</div>
-    <div class="message" id="message5">Yêu em nhiều hơn cả bầu trời! ✨</div>
-    <div class="message" id="message6">TLST người phụ nữ giàu có và bí ẩn quyền lực nhẩt thế giới</div>
-    <div class="message" id="message7">Only youu </div>
+    &lt;div class=&quot;message&quot; id=&quot;message1&quot;&gt;I love you *30000000000 🌻👩‍❤️‍👨&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message2&quot;&gt;Yêu ST một chút xíuuuu 🌞&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message3&quot;&gt;Mỗi ngày bên em là một món quà! 🎁&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message4&quot;&gt;Em chính là người tuyệt vời nhất! 🌟&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message5&quot;&gt;Yêu em nhiều hơn cả bầu trời! ✨&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message6&quot;&gt;Yêu cả bánh mì nữa &lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message7&quot;&gt;KHÔNG YÊU EM THÌ YÊU AI &lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message1&quot;&gt;I love you *30000000000 🌻👩‍❤️‍👨&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message2&quot;&gt;Yêu ST một chút xíuuuu 🌞&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message3&quot;&gt;🎁&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message4&quot;&gt;Em mười điểm 🌟&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message5&quot;&gt;Yêu em nhiều hơn cả bầu trời! ✨&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message6&quot;&gt;TLST người phụ nữ giàu có và bí ẩn quyền lực nhẩt thế giới&lt;/div&gt;
+    &lt;div class=&quot;message&quot; id=&quot;message7&quot;&gt;Only youu &lt;/div&gt;
 
 
-    <div id="fireworks-container"></div>
+    &lt;div id=&quot;fireworks-container&quot;&gt;&lt;/div&gt;
 
-    <div id="question">
-        <p>Yêu em nhiều không?</p>
-        <button id="yes-button">Có</button>
-        <button id="no-button" onmouseover="moveNoButton()">Không</button>
-    </div>
+    &lt;div id=&quot;question&quot;&gt;
+        &lt;p&gt;Yêu em nhiều không?&lt;/p&gt;
+        &lt;button id=&quot;yes-button&quot;&gt;Có&lt;/button&gt;
+        &lt;button id=&quot;no-button&quot; onmouseover=&quot;moveNoButton()&quot;&gt;Không&lt;/button&gt;
+    &lt;/div&gt;
 
-    <script>
+    &lt;script&gt;
         function showMessages() {
             var messages = document.getElementsByClassName('message');
-            for (var i = 0; i < messages.length; i++) {
+            for (var i = 0; i &lt; messages.length; i++) {
                 messages[i].style.display = 'block';
                 messages[i].style.left = (Math.random() * window.innerWidth) + 'px';
                 messages[i].style.animationDelay = (Math.random() * 5) + 's';
@@ -141,6 +141,6 @@
 
         // Show messages and start fireworks on page load
         window.onload = showMessages;
-    </script>
-</body>
-</html>
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
